@@ -71,7 +71,7 @@ export default function Home() {
               </motion.h2>
               
               <motion.p variants={FADE_UP} className="text-lg text-muted-foreground/80 mb-10 max-w-2xl leading-relaxed">
-                Motivated 3rd-year student building real-world applications. Seeking opportunities to enhance technical, problem-solving, and software development skills.
+                Motivated Final year student building real-world applications. Seeking opportunities to enhance technical, problem-solving, and software development skills.
               </motion.p>
               
               <motion.div variants={FADE_UP} className="flex flex-wrap gap-4">
